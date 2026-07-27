@@ -62,7 +62,35 @@ ecommerce-analytics/
 - How well does the business retain customers over time (cohort analysis)?
 
 ## Insights & Recommendations
-*(Fill this in after running the analysis — this section matters most
-in interviews. 3-5 bullet points translating findings into business
-actions, e.g. "Target 'At Risk' segment with a win-back email campaign,
-representing X% of customers and $Y in historical revenue.")*
+
+- **Champions (29.2% of customers, 1,268 total) drive 76.8% of total
+  revenue** (avg ₹5,397.51 per customer) — a heavily concentrated
+  revenue base. Recommend a dedicated loyalty/VIP program and
+  proactive relationship management for this segment, since losing
+  even a small % of Champions would have an outsized revenue impact.
+
+- **Loyal Customers (19.4%, 843 customers)** contribute 11.8% of
+  revenue (avg ₹1,249.62/customer) — solid, consistent buyers with
+  room to grow. Recommend upsell/cross-sell campaigns to move them
+  toward Champion-level spend.
+
+- **Potential Loyalists (21.6%, 936 customers)** contribute 7.3% of
+  revenue (avg ₹699.06/customer). Recommend nurture campaigns
+  (personalized recommendations, loyalty program invites) to convert
+  them into higher-value segments.
+
+- **At Risk (22.8%, 988 customers)** — a large segment (nearly a
+  quarter of all customers) contributing only 3.5% of revenue
+  (avg ₹313.92/customer), signaling declining engagement. Recommend a
+  targeted win-back campaign (discount codes, re-engagement emails)
+  before they churn into "Lost."
+
+- **Lost (7.0%, 303 customers)** contribute just 0.6% of revenue
+  (avg ₹163.22/customer) — recommend only low-cost reactivation
+  attempts here, since ROI is lowest in this segment; budget is better
+  spent retaining At Risk and growing Potential Loyalists.
+
+- **Key business takeaway:** Revenue is highly concentrated — the top
+  ~29% of customers generate over 3 out of every 4 revenue dollars.
+  This suggests customer retention and Champion-tier relationship
+  management should be prioritized over broad acquisition spend.

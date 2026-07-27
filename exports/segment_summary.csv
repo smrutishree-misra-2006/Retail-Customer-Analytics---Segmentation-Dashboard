@@ -1,0 +1,6 @@
+segment,num_customers,pct_of_customers,total_revenue,pct_of_revenue,avg_revenue_per_customer
+Champions,1268,29.2,6844044.81,76.8,5397.51
+Loyal Customers,843,19.4,1053430.86,11.8,1249.62
+Potential Loyalists,936,21.6,654324.73,7.3,699.06
+At Risk,988,22.8,310152.13,3.5,313.92
+Lost,303,7.0,49455.37,0.6,163.22
